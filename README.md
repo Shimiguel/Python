@@ -13,3 +13,7 @@
   * **Criar um código que acesse arquivos .txt externos**
   1. Criar um código que faça log-in com nome e senha.
   1. Criar um código que crie uma nova conta e registre nome e senha que o usuário digitar.
+
+ ### [Testando criar uma Branch](testBranch)
+  * Testando a criação de uma nova _branch_ junto do **Curso em Vídeo** sobre Git e GitHub
+  1. Para não ficar sem conteúdo criarei código simples de Python.
