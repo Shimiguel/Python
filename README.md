@@ -22,4 +22,5 @@
   1. Crie um programa que leia um valor e mostre seu sucessor e antecessor.
   1. Crie um programa que leia um valor e mostre seu dobro, triplo, e raíz quadrada.
   1. Crie um programa que leia notas de um aluno e mostre sua média.
-  1. Crie um programa que leia um valor em metros e o exiba convertido em centimentros e milímetros.
+  1. Crie um programa que leia um valor em metros e o exiba convertido em km, hm, dam, dm, cm, mm.
+  1. Crie um programa que leia um valor e mostre a tabuada desse valor.
