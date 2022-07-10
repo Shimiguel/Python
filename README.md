@@ -24,3 +24,4 @@
   1. Crie um programa que leia notas de um aluno e mostre sua média.
   1. Crie um programa que leia um valor em metros e o exiba convertido em km, hm, dam, dm, cm, mm.
   1. Crie um programa que leia um valor e mostre a tabuada desse valor.
+  1. Crie um programa que leia um valor em R$ e converta para US$ (1R$ = 5.26US$).
