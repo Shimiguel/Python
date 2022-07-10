@@ -15,7 +15,11 @@
  
  ### [Desafios Curso em vídeo](desafiosCV)
  * Re-fazendo desafios de python do curso em vídeo.
- 1. Crie um programa que escreva "Olá, mundo!" na tela.
- 1. Crie um programa que escreva "É um prazer te conhecer" mais o nome que o usuário digitar.
- 1. Crie um programa que leia dois valores e escreva a soma deles.
- 1. Faça um programa que leia algo e mostre na tela seu tipo primitivo e todas as informações possíveis sobre ele.
+  1. Crie um programa que escreva "Olá, mundo!" na tela.
+  1. Crie um programa que escreva "É um prazer te conhecer" mais o nome que o usuário digitar.
+  1. Crie um programa que leia dois valores e escreva a soma deles.
+  1. Crie um programa que leia um valor e mostre na tela seu tipo primitivo e todas as informações possíveis sobre ele.
+  1. Crie um programa que leia um valor e mostre seu sucessor e antecessor.
+  1. Crie um programa que leia um valor e mostre seu dobro, triplo, e raíz quadrada.
+  1. Crie um programa que leia notas de um aluno e mostre sua média.
+  1. Crie um programa
