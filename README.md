@@ -28,7 +28,7 @@
    <a href="./desafiosCV/anotacao_aula08.md">Anotações Aula #08 - Módulos</a>
   </p>
   
-  * Retornando ao estudos de Python com o canal do Curso em Vídeo.
+  * Retornando ao estudos de Python3 com o canal do Curso em Vídeo, recomendo que acesse:
      * Canal do [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
      * Playlist [Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
      * Playlist [Python Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
