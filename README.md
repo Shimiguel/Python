@@ -27,6 +27,7 @@
    <a href="./desafiosCV/enunciados.md">enuciados dos exercícios</a> •
    <a href="./desafiosCV/anotacao_aula08.md">Anotacao Aula #08 - Módulos</a>
   </p>
+  
   * Retornando ao estudos de Python com o canal do Curso em Vídeo.
      * Canal do [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
      * Playlist [Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
