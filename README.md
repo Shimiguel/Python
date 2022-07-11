@@ -29,3 +29,4 @@
      1. Sabendo que com uma lata de tinta(1 litro) podemos pintar 2m² dela(parede), calcule quantas latas de tintas precisaríamos para pintá-la.
   1. Crie um programa que leia um valor de um produto e mostre seu valor com desconto.
   1. Crie um programa que leia o salário de um funcionário e mostre-o com um aumenbto.
+  1. Crie um programa que leia uma temperatura em C° e a converta para F°.
