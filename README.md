@@ -16,7 +16,7 @@
  ### [Desafios Curso em vídeo](desafiosCV)
  * Re-fazendo desafios de python do curso em vídeo.
   1. Crie um programa que escreva "Olá, mundo!" na tela.
-  1. Crie um programa que escreva "É um prazer te conhecer" mais o nome que o usuário digitar.
+  1. Crie um programa que leia o nome do usuário e mostre "É um prazer te conhecer" mais o nome digitado.
   1. Crie um programa que leia dois valores e escreva a soma deles.
   1. Crie um programa que leia um valor e mostre na tela seu tipo primitivo e todas as informações possíveis sobre ele.
   1. Crie um programa que leia um valor e mostre seu sucessor e antecessor.
@@ -30,3 +30,7 @@
   1. Crie um programa que leia um valor de um produto e mostre seu valor com desconto.
   1. Crie um programa que leia o salário de um funcionário e mostre-o com um aumenbto.
   1. Crie um programa que leia uma temperatura em C° e a converta para F°.
+  1. Crie um programa que leia a quantidade de dias e de quilometros rodados com um carro alugado. Tendo em mente que:
+     1. Cada dia do aluguel custa R$60.
+     1. Cada quilômetro rodado custa R$0.15.
+  1. 
