@@ -23,6 +23,11 @@
   1. Para não ficar sem conteúdo criarei código simples de Python.
  
  ### [Desafios Curso em vídeo](desafiosCV)
- * Re-fazendo desafios de python do curso em vídeo.
+ * Retornando ao estudos de Python com o canal do Curso em Vídeo.
+    * Canal do [Curso em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+    * Playlist [Python Mundo 1](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+    * Playlist [Python Mundo 2](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+    * Playlist [Python Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)
+    * Playlist [Python exercícios](https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-)
  * [Enunciados dos exercícios e desafios](./desafiosCV/enuciados.md)
 
