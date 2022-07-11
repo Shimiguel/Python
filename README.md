@@ -5,10 +5,10 @@
 
 ## Índice
  * [Informações básicas](#Python)
- * [Índice](##Índice)
- * [Códigos](##Códigos)
-    * [Acessando doc .txt](###Acessando-Txt)
-    * [Desafios do Curso em Vídeo](###Desafios-Curso-em-vídeo)
+ * [Índice](#Índice)
+ * [Códigos](#Códigos)
+    * [Acessando doc .txt](#Acessando-Txt)
+    * [Desafios do Curso em Vídeo](#Desafios-Curso-em-vídeo)
 
 ## Códigos
  ### [Acessando Txt](acessandoTxt)
