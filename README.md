@@ -4,11 +4,11 @@
  <p align="center"><img width="100px" src="./img/pythonicon.png" alt="ícone Python"/></p>
 
 ## Índice
- * (Informações básicas)[#Python]
- * (Índice)[##Índice]
- * (Códigos)[##Códigos]
-    * (Acessando doc .txt)[###Acessando-Txt]
-    * (Desafios do Curso em Vídeo)[###Desafios-Curso-em-vídeo]
+ * [Informações básicas](#Python)
+ * [Índice](##Índice)
+ * [Códigos](##Códigos)
+    * [Acessando doc .txt](###Acessando-Txt)
+    * [Desafios do Curso em Vídeo](###Desafios-Curso-em-vídeo)
 
 ## Códigos
  ### [Acessando Txt](acessandoTxt)
