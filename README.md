@@ -1,5 +1,5 @@
 <h1 align="center"> Python </h1>
- Um repositório para códigos Python que eu tenho.
+ Um repositório para códigos Python que eu tenho.<br>
  <p align="center"><img src="https://img.shields.io/github/license/shimiguel/Python?style=for-the-badge" alt="Badge License"><img src="https://img.shields.io/github/languages/code-size/shimiguel/python?style=for-the-badge" alt="Badge Repository Size"></p>
  <p align="center"><img width="100px" src="./img/pythonicon.png" alt="ícone Python"/></p>
 
