@@ -1,5 +1,5 @@
 # Enunciados dos exercícios
-###### [Curso em vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
+##### [Curso em vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo)
  1. Crie um programa que escreva "Olá, mundo!" na tela.
  1. Crie um programa que leia o nome do usuário e mostre "É um prazer te conhecer" mais o nome digitado.
  1. Crie um programa que leia dois valores e escreva a soma deles.
