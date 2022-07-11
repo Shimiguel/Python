@@ -24,8 +24,8 @@
  
  ### [Desafios Curso em vídeo](desafiosCV)
   <p align="center">
-   <a href="./desafiosCV/enunciados.md">enuciados dos exercícios</a> •
-   <a href="./desafiosCV/anotacao_aula08.md">Anotacao Aula #08 - Módulos</a>
+   <a href="./desafiosCV/enunciados.md">Enunciados dos exercícios</a> •
+   <a href="./desafiosCV/anotacao_aula08.md">Anotações Aula #08 - Módulos</a>
   </p>
   
   * Retornando ao estudos de Python com o canal do Curso em Vídeo.
