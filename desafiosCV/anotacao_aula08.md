@@ -16,5 +16,5 @@
   ```
   ```python
   from estou_sem_criatividade import exemplo
-  #importou a ferramenta de nome "exemplo", do módulo "estou_sem_criatividade".
+  #importou a ferramenta de nome "exemplo", do módulo de nome "estou_sem_criatividade".
   ```
