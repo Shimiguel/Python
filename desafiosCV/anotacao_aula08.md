@@ -6,7 +6,8 @@
   * [Como importar](#como-importar)
 
  ## O que são
-  São como ferramentas de fora do Python, que precisarão ser *importadas* para dentro dele. E só assim podem ser utilizadas, elas permitem executar códigos de forma mais fácil e até em aguns casos, executar comandos e tarefas que não consiguiríamos somente com o Python.
+  São como ferramentas de fora do Python, que precisarão ser *importadas* para dentro dele. E só assim podem ser utilizadas, elas permitem executar códigos de forma mais fácil e até em aguns casos, executar comandos e tarefas que não consiguiríamos somente com o Python.<br>
+  Pensando em um RPG é como se invocássemos um "monstro" que nos ajudará na batalha.(ficou estranho, eu sei, mas foi assim que eu entendi)
 
  ## Como importar
   Como explicado na aula lá no canal do Curso em vídeo, podemos importar-los de 2 maneiras, pelo `import nome_módulo` ou `from nome_módulo import nome_ferramenta`, o primeiro serve para importarmos todo o módulo, o segundo a "ferramenta" específica dentro do módulo.
@@ -16,5 +17,6 @@
   ```
   ```python
   from estou_sem_criatividade import exemplo
-  #importou a ferramenta de nome "exemplo", do módulo de nome "estou_sem_criatividade".
+  #importou a ferramenta de nome "exemplo", do módulo "estou_sem_criatividade".
   ```
+  Desta forma podemos importar o módulo.
